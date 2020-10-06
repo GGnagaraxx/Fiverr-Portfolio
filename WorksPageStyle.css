@@ -129,14 +129,17 @@ hr {
 }
 
 .sidebar img {
+    padding-left: 10%;
     width: 80%;
-    display: inline-block;
+    display: block;
 }
 
 .sidebar a {
+    text-align: center;
     color: #dddddd;
     text-decoration: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
 }
 
 .sidebar a:hover {
