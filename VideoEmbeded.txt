@@ -1,0 +1,8 @@
+check-in system = https://www.youtube.com/embed/CH4xJTdBs5c
+pet system = https://www.youtube.com/embed/gdM5BTWFHo4
+dice system = https://www.youtube.com/embed/gfbzXzBohxA
+car shop system = https://www.youtube.com/embed/15EC240kwIM
+intel system = https://www.youtube.com/embed/sU96QEWxoPE
+delivery system = https://www.youtube.com/embed/ebbQC6DnhhI
+arrest system = https://www.youtube.com/embed/1UsNjlVb5YE
+bounty system = https://www.youtube.com/embed/ogvF7WjvcRw
