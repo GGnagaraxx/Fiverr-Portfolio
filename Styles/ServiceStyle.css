@@ -1,0 +1,158 @@
+body{
+    background-image: radial-gradient(#111111, #222222);
+}
+
+body .jumbotron{
+    background-image: radial-gradient(#111111, #222222);
+    color: rgb(89, 131, 209);
+    margin-bottom: 0;
+}
+
+#main-logo{
+    display: inline;
+}
+
+#main-logo{
+    color: rgb(89, 131, 209);
+}
+
+nav{
+    background-color: #333333;
+    display: inline;
+    margin-bottom: 5vh;
+}
+
+.row{
+    color:rgb(209, 209, 209);
+}
+
+/*Main Body*/
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 8fr 2fr;
+    grid-auto-rows: minmax(50px, auto);
+    grid-gap: 3vw;
+}
+
+.grid-container h2{
+    grid-column: span 2;
+    margin-left: 5vw;
+    font-size: 50px;
+    color: rgb(89, 131, 209);
+}
+
+.content section{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    padding: 5%;
+    border: 2px ridge rgb(89, 131, 209);
+    box-sizing: border-box;
+    background-color: #222222;
+    font-size: 20px;
+    color:rgb(209, 209, 209);
+}
+
+.content h3{
+    font-size: 30px;
+    color: rgb(89, 131, 209);
+}
+
+.content a{
+    color: rgb(89, 131, 209);
+}
+
+.content p{
+    text-indent: 3rem;
+}
+
+.scripting-service{
+    grid-column: span 1;
+}
+
+.tutorial-service{
+    grid-column-start: 1;
+    grid-column: span 1;
+}
+
+.sidebar{
+    grid-column: span 1;
+    grid-column-start: 2;
+    grid-row: span 2;
+    
+    text-align: center;
+    margin: 2vw;
+}
+
+.sidebar section{
+    padding-top: 5vh;
+}
+
+.sidebar  a{
+    color:rgb(89, 131, 209);
+}
+
+.sidebar img{
+    width: 90%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+/*Float clear*/
+
+.clr-float {
+    clear: both;
+}
+
+/*Footer*/
+
+.footer {
+    margin-top: 50px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    height: 200px;
+    width: 100%;
+    background-color: black;
+}
+
+.footer .contact-me {
+    padding-top: 10px;
+    margin: 0;
+    height: 150px;
+    display: block;
+}
+
+.footer h3 {
+    color: #555555;
+    padding: 0;
+    margin: 0;
+}
+
+.footer ul {
+    padding: 0;
+    margin: 0;
+}
+
+.footer li {
+    list-style: none;
+    padding: 25px;
+    display: inline-block;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #555555;
+}
+
+.footer a:hover {
+    color: #999999;
+}
+
+.footer p {
+    color: #555555;
+    padding: 0;
+    margin: 0;
+}

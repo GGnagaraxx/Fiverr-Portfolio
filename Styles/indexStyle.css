@@ -1,0 +1,101 @@
+body{
+    background-image: radial-gradient(#111111, #222222);
+}
+
+body .jumbotron{
+    background-image: radial-gradient(#111111, #222222);
+    color: rgb(89, 131, 209);
+    margin-bottom: 0;
+}
+
+#main-logo{
+    display: inline;
+}
+
+#main-logo{
+    color: rgb(89, 131, 209);
+}
+
+nav{
+    background-color: #333333;
+    display: inline;
+    margin-bottom: 5vh;
+}
+
+.row{
+    color:rgb(209, 209, 209);
+}
+
+.main-body {
+    height: 60vw;
+    width: 100%;
+}
+
+.main-body p {
+    height: 80%;
+    width: 100%;
+    top: 4rem;
+    position: relative;
+    font-size: 6vw;
+    text-shadow: 2px 2px #a10c0c;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color:rgb(209, 209, 209);
+}
+
+.main-body img {
+    width: 40%;
+    position: relative;
+    float: right;
+}
+
+/*Footer*/
+
+.footer {
+    margin-top: 50px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    height: 200px;
+    width: 100%;
+    background-color: black;
+}
+
+.footer .contact-me {
+    padding-top: 10px;
+    margin: 0;
+    height: 150px;
+    display: block;
+}
+
+.footer h3 {
+    color: #555555;
+    padding: 0;
+    margin: 0;
+}
+
+.footer ul {
+    padding: 0;
+    margin: 0;
+}
+
+.footer li {
+    list-style: none;
+    padding: 25px;
+    display: inline-block;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #555555;
+}
+
+.footer a:hover {
+    color: #999999;
+}
+
+.footer p {
+    color: #555555;
+    padding: 0;
+    margin: 0;
+}
