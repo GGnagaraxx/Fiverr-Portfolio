@@ -2,6 +2,13 @@ body{
     background-image: radial-gradient(#111111, #222222);
 }
 
+body .main-container{
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 200px;
+}
+
 body .jumbotron{
     background-image: radial-gradient(#111111, #222222);
     color: rgb(89, 131, 209);
@@ -52,7 +59,7 @@ nav{
 /*Footer*/
 
 .footer {
-    margin-top: 50px;
+    margin-top: auto;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
