@@ -15,18 +15,18 @@ body .jumbotron{
     margin-bottom: 0;
 }
 
-#main-logo{
-    display: inline;
-}
-
-#main-logo{
-    color: rgb(89, 131, 209);
-}
-
 nav{
     background-color: #333333;
     display: inline;
     margin-bottom: 5vh;
+    font-size: 150%;
+}
+
+#main-logo{
+    display: inline;
+    text-decoration: none;
+    font-size: 125%;
+    color: rgb(89, 131, 209);
 }
 
 .row{
